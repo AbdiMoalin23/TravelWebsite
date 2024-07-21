@@ -14,6 +14,22 @@ h1 {
     margin: 0 auto;
     text-align: center;
     align-items: center;
+    
+}
+
+h2 {
+    margin-top: 75px;
+    padding: 10px; ;
+    border: 1px solid #ccc;
+    text-align: center;
+    align-items: left;
+}
+
+.team {
+    font-size: 16px;
+      color: #333;
+      margin-top: 80px;
+      background-color: #ADD8E6;
 }
 
 p {
@@ -59,6 +75,23 @@ nav {
   
   button:hover {
     background-color: purple;
+  }
+
+  form {
+    margin-top: 200px;
+    margin-left:400px;
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+    border-width:3px;
+    border-style:solid;
+    border-color: red;
+
+ 
+    
+
+
   }
   
  
